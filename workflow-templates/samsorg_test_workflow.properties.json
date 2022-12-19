@@ -1,0 +1,13 @@
+{
+    "name": "Sams org test workflow",
+    "description": "Sams Organization test workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Bash"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
